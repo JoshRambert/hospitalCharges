@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\bin\Debug\lab 5 hospital charges.exe.config
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\bin\Debug\lab 5 hospital charges.exe
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\bin\Debug\lab 5 hospital charges.pdb
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab 5 hospital charges.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab_5_hospital_charges.Form1.resources
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab_5_hospital_charges.Properties.Resources.resources
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab 5 hospital charges.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab 5 hospital charges.exe
+C:\Users\Joshua\Desktop\lab 5 hospital charges\lab 5 hospital charges\obj\Debug\lab 5 hospital charges.pdb
